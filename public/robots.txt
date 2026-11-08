@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://my-company.vercel.app/sitemap.xml
+
+# Crawl delay (requests per second)
+Crawl-delay: 1
