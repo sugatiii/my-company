@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "devCommand": "npm run dev",
+  "env": {
+    "NEXT_PUBLIC_SITE_URL": {
+      "description": "Site URL for production",
+      "example": "https://my-company.vercel.app"
+    }
+  }
+}
